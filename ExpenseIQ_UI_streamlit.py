@@ -21,7 +21,7 @@ if r == 'Home':
 """)
 
     # FIXED: relative path
-    st.image("Image.jpeg")
+    st.image("Image.jpeg",rb)
 
 
 # ---------------- EXPENSEIQ ---------------- #
