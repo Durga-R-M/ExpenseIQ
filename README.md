@@ -1,4 +1,23 @@
-# ExpenseIQ
+💰 **ExpenseIQ – Your Smart AI-Powered Expense Analyzer**
+
+Tired of wondering where your money disappears every month? ExpenseIQ transforms your bank statements into powerful financial insights within seconds.
+
+📊 Upload your statement → 🤖 AI categorizes transactions → 📈 Visual dashboards reveal spending patterns → 💡 Get actionable insights to improve savings
+
+Built using Streamlit and machine learning, ExpenseIQ helps you:
+
+Track income vs expenses effortlessly
+Identify top spending categories
+Reduce unnecessary expenses
+Make smarter financial decisions
+
+Whether you're planning for a dream home, managing monthly budgets, or aiming for financial independence — ExpenseIQ gives you clarity and control.
+
+🚀 Turn data into decisions. Turn expenses into insights.
+
+#ExpenseIQ #FinTech #AI #DataScience #MachineLearning #PersonalFinance #SmartSpending #Budgeting #Streamlit #Python #Analytics #FinancialFreedom #MoneyManagement #DataDriven #TechInnovation
+
+
 Streamlit application link: https://expenseiq-durgar.streamlit.app/
 LinkedIn : www.linkedin.com/in/durgarmanikandan 
 
