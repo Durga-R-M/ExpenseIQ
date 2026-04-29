@@ -142,7 +142,7 @@ if r == 'Analysis':
     st.write("Detailed analysis of your spendings")
     
     df = st.session_state.get("df")
-    #st.write(df)
+    st.write(df)
     
     # Group by Category and sum
     category_sum = df.groupby("Category")["Withdrawal Amount(INR)"].sum().reset_index()
@@ -167,8 +167,8 @@ if r == 'Analysis':
     
     #-----Figure 2-----insights
     # Calculate totals
-    st.write("💡 Insights")
-    total_income = df["Deposit Amount(INR)"].sum()
+    st.write("💡 Deposits Vs Withdrawal Insights")
+    total_income = df["Deposit Amount(INR)"].sum() 
     total_expense = df["Withdrawal Amount(INR)"].sum()
 
     # Create dataframe for plotting
